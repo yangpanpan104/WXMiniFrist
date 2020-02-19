@@ -9,6 +9,6 @@
   </view>
   <view class="usermotto">
     <view> {{a + b}} </view>
-    <text>{{ (a + b) === 10? "变量 a+b 等于10": "变量 a 不等于10"}}</text>
+    <text>{{ (a + b) === 10? "变量1111 a+b 等于10": "变量 a 不等于10"}}</text>
   </view>
 </view>
